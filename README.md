@@ -1,8 +1,6 @@
 
-<div align="center">
 ### Complete Arduino NRF24L01 Wireless Communication Repository
 Learn **NRF24L01** from **Basic ➜ Advanced** with **well-commented Arduino examples**, circuit diagrams, and practical projects.
-</div>
 ---
 ## 📖 Overview
 This repository is a complete learning resource for the **nRF24L01 2.4GHz Wireless Transceiver Module** using Arduino.
